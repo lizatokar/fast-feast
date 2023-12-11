@@ -3,10 +3,11 @@ import {Route, Routes} from "react-router-dom";
 import Header from "./Components/Header/Header";
 import Main from "./Components/Main/Main";
 import Contacts from "./Components/Contacts/Contacts";
+import Footer from "./Components/Footer/Footer";
 import Burgers from "./Components/Burgers/Burgers";
 import CertainBurger from "./Components/CertainBurger/CertainBurger";
 import MyCart from "./Components/MyCart/MyCart";
-import Footer from "./Components/Footer/Footer";
+
 
 function App(props) {
   return (
