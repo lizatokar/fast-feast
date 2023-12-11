@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/fast-feast/static/css/main.5175b3d9.css",
-    "main.js": "/fast-feast/static/js/main.2db12c7a.js",
+    "main.js": "/fast-feast/static/js/main.742e370a.js",
     "static/media/logo.png": "/fast-feast/static/media/logo.5bff7b76e1fee481d89c.png",
     "static/media/aboutUs.png": "/fast-feast/static/media/aboutUs.7ef1d22f56bb4c381cb7.png",
     "static/media/foodDelivery.png": "/fast-feast/static/media/foodDelivery.aba3001bea90954da41d.png",
     "index.html": "/fast-feast/index.html",
     "main.5175b3d9.css.map": "/fast-feast/static/css/main.5175b3d9.css.map",
-    "main.2db12c7a.js.map": "/fast-feast/static/js/main.2db12c7a.js.map"
+    "main.742e370a.js.map": "/fast-feast/static/js/main.742e370a.js.map"
   },
   "entrypoints": [
     "static/css/main.5175b3d9.css",
-    "static/js/main.2db12c7a.js"
+    "static/js/main.742e370a.js"
   ]
 }
