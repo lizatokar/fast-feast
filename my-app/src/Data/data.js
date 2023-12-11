@@ -29,7 +29,7 @@ let data = {
             date: '12.08.2023, 14:45:00'
         },
         {
-            user: 'Jen',
+            user: 'Jennifer',
             id: 5,
             title: "Very tasty",
             text: "Very tasty, highly recommend it.",

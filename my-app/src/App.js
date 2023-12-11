@@ -8,7 +8,6 @@ import CertainBurger from "./Components/CertainBurger/CertainBurger";
 import MyCart from "./Components/MyCart/MyCart";
 import Footer from "./Components/Footer/Footer";
 
-
 function App(props) {
   return (
       <div className="App">
