@@ -1,0 +1,12 @@
+.Footer {
+    padding: 10px 45px 10px 45px;
+    background-color: #000000;
+    color: white;
+    margin-top: 70px;
+}
+.Footer a {
+    text-decoration: none;
+    color: white;
+}
+
+

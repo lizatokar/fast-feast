@@ -1,0 +1,25 @@
+.Burgers {
+    padding: 30px;
+    box-sizing: border-box;
+
+}
+
+.Burgers div {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.Burgers h1 {
+    margin: 0;
+}
+
+.Burgers .selectWithBurgers {
+    width: 150px;
+    border: solid 2px #09be99;
+    height: 35px;
+    padding-left: 24px;
+    border-radius: 23px;
+    font-size: 19px;
+}
+

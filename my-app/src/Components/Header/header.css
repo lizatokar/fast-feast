@@ -1,0 +1,66 @@
+* {
+    font-family: 'Noto Sans';
+}
+
+.Header .Logo {
+    width: 90px;
+}
+
+.Header .LogoText {
+    display: flex;
+    align-items: center;
+    margin-left:10%;
+}
+
+.Header .LogoText p {
+    font-weight: 800;
+    font-size: 25px;
+}
+
+.Header {
+    padding: 55px;
+    background-color: #09be99;
+}
+
+.Header .Delivery {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Header .Delivery h3{
+    font-size: 55px;
+    font-weight: 800;
+}
+
+.Header .Delivery h3 .FirstSpan{
+    color: white;
+    display: inline-block;
+    margin-left: 55px;
+    word-spacing: 5px;
+}
+
+.Header .FoodDelivery {
+    width: 250px;
+}
+
+.Header nav {
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.Header nav a {
+    text-transform: uppercase;
+    font-weight: bold;
+    transition: 0.3s;
+    text-decoration: none;
+    color: black;
+    background-color: white;
+    border: solid 15px white;
+}
+
+.Header nav a:hover {
+    transform: scale(1.2);
+    color: #ef2a56;
+}

@@ -1,0 +1,93 @@
+.CertainBurger {
+    padding: 70px;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-around;
+    align-items: start;
+}
+
+.CertainBurger .Description {
+    max-width: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+}
+
+.CertainBurger .Description button {
+    align-self: baseline;
+}
+
+.CertainBurger .Description .LikesDislikesButtons {
+    display: flex;
+}
+
+.CertainBurger img {
+    width: 20%;
+}
+
+.Loading {
+    text-align: center;
+}
+
+.ContainerBurger .BackToBurgersButton {
+    margin: 30px 0 0 35px;
+}
+
+.ContainerBurger .AddBurgerToCartButton {
+    margin: 35px 0 40px 0;
+}
+
+.ContainerBurger .BackToBurgersButton, .AddBurgerToCartButton {
+    background: #09be99;
+    border: 1px solid #09be99;
+    border-radius: 6px;
+    box-shadow: rgba(0, 0, 0, 0.1) 1px 2px 4px;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    cursor: pointer;
+    display: inline-block;
+    font-family: nunito,roboto,proxima-nova,"proxima nova",sans-serif;
+    font-size: 16px;
+    font-weight: 800;
+    line-height: 16px;
+    min-height: 40px;
+    outline: 0;
+    padding: 12px 14px;
+    text-align: center;
+    text-rendering: geometricprecision;
+    text-transform: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    vertical-align: middle;
+}
+
+.ContainerBurger .BackToBurgersButton:hover, .AddBurgerToCartButton:hover,
+.ContainerBurger .BackToBurgersButton:active, .AddBurgerToCartButton:active {
+    background-color: initial;
+    background-position: 0 0;
+    color: #09be99;
+}
+
+.ContainerBurger .BackToBurgersButton:active, .AddBurgerToCartButton:active {
+    opacity: .5;
+}
+
+.LikeButton {
+    background-color: #6bd36b;
+    color: #ffffff;
+    font-size: 16px;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    margin-right:15px;
+}
+
+.DislikeButton {
+    background-color: #d55f5f;
+    color: #ffffff;
+    font-size: 16px;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}

@@ -1,0 +1,27 @@
+main section .Section .AboutUs {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 60px 0 120px 0;
+}
+
+main section .Section .AboutUsDescription {
+    width: 40%;
+    margin-right: 20px;
+}
+
+main section .Section h2 {
+    text-align: center;
+    margin: 0 0 70px 0;
+}
+
+main section .Section .Benefits {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 30px 0 170px 0;
+}
+
+main section .Section .Benefit {
+    width: 25%;
+}
+
